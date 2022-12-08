@@ -1,0 +1,11 @@
+{
+    "name": "PaymenGateway",
+    "alias": "paymengateway",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\PaymenGateway\\Providers\\PaymenGatewayServiceProvider"
+    ],
+    "files": []
+}
